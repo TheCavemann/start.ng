@@ -1,0 +1,90 @@
+.contact {
+	text-align: center;
+}
+
+#name {
+	background: hsl(0, 40%, 50%);
+	color: white;
+}
+
+#address {
+	line-height: 0;
+}
+
+
+#entry {
+	font-style: italic;
+	word-spacing: 3px;
+	margin-top: 0px;
+	border-top: 1px solid;
+}
+
+#profile {
+	color: hsl(0, 40%, 50%);
+	margin-top: 5px;
+	margin-bottom: 0px;
+	padding-bottom: 5px;
+	letter-spacing: 1px;
+}
+
+#education {
+	color: hsl(0, 40%, 50%);
+	margin-top: 35px;
+	margin-bottom: 1px;
+	padding-bottom: 5px;
+	letter-spacing: 1px;
+}
+
+#bsc {
+	border-top: 1px solid;
+	margin-top: 1px;
+	padding-top: 7px;
+}
+
+#modules {
+	line-height: 1.5;
+}
+
+#skills {
+	line-height: 0.1;
+}
+
+#experience {
+	color: hsl(0, 40%, 50%);
+	margin-top: 35px;
+	margin-bottom: 0px;
+	margin-top: 2px;
+	padding-bottom: 5px;
+	letter-spacing: 1px;
+}
+
+#quality {
+	color: hsl(0, 40%, 50%);
+	border-top: 1px solid black;
+	padding-top: 5px;
+	margin-top: 1px;
+}
+
+#piggyvest {
+	line-height: 0;
+}
+
+#assistant {
+	line-height: 0;
+	color: hsl(0, 40%, 50%);
+	margin-top: 1px;
+}
+
+#accountant {
+	line-height: 0;
+	color: hsl(0, 40%, 50%);
+	margin-top: 1px;
+}
+
+#reference {
+	line-height: 0;
+	color: hsl(0, 40%, 50%);
+	margin-top: 1px;
+}
+
+/*This is my CSS styling*/
